@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Apr  2 17:50:22 2018
-
-@author: Ashok
-"""
 
 import random as rnd
 #import data_handler_almost as DH
