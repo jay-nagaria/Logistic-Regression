@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Mar 21 17:52:04 2018
 
-@author: Ashok
-"""
 from sklearn import metrics
 import random as rnd
 #import data_handler_almost as DH
